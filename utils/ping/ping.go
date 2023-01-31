@@ -1,8 +1,9 @@
 package ping
 
 import (
-	"sub2config/utils/mean"
 	"time"
+
+	"github.com/BaymaxRice/sub2config/utils/mean"
 )
 
 type Duration time.Duration

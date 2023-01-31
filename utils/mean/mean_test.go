@@ -1,8 +1,9 @@
 package mean_test
 
 import (
-	"sub2config/utils/mean"
 	"testing"
+
+	"github.com/BaymaxRice/sub2config/utils/mean"
 )
 
 type T int

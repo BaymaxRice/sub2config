@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"sub2config/utils/base64"
-	"sub2config/utils/split"
 	"unicode"
+
+	"github.com/BaymaxRice/sub2config/utils/base64"
+	"github.com/BaymaxRice/sub2config/utils/split"
 )
 
 type Link struct {
